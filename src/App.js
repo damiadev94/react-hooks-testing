@@ -1,5 +1,5 @@
 import MessageCard from "./MessageCard";
-import "./styles.css";
+import "./output.css";
 
 export default function App() {
   return (
